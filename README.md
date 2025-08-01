@@ -20,3 +20,5 @@ It's perfect for anyone who loves seeing their hard work pay off visually and wa
 * **C++**: The core logic is all written in C++.
 * **Visual Studio**: Developed and compiled using Visual Studio 2022.
 * **Windows API**: Used directly for playing sound and setting the custom application icon.
+
+Music by <a href="https://pixabay.com/users/musicinmedia-43224764/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=381366">Dvir</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=381366">Pixabay</a>
