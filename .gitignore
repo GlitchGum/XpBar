@@ -1,0 +1,21 @@
+# Visual Studio generated files
+*.suo
+*.user
+*.sln.docstates
+*.vs
+Debug/
+Release/
+x64/
+Win32/
+
+# Build results
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.tlog
+*.idb
+
+# User-generated data
+goals.txt
